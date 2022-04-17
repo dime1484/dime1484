@@ -2,7 +2,7 @@
 
 I code in: Python 3.x, Go, Pascal, HTML/CSS/JS.
 
-🌱 I’m currently learning = [ <br/>
+- 🌱 I’m currently learning = [ <br/>
   C,<br/>
   hikari+lightbulb<br/>
 ]

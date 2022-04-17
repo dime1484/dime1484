@@ -2,23 +2,23 @@
 
 I code in: Python 3.x, Go, Pascal, HTML/CSS/JS.
 
-🌱 I’m currently learning = [
-  C,
-  hikari+lightbulb
+🌱 I’m currently learning = [ <br/>
+  C,<br/>
+  hikari+lightbulb<br/>
+]
+<br/>
+- 💬 Ask me about = [<br/>
+  Python 3.x,<br/>
+  Pascal,<br/>
+  Networking,<br/>
+  Cyber-Security<br/>
 ]
 
-- 💬 Ask me about = [
-  Python 3.x,
-  Pascal,
-  Networking,
-  Cyber-Security
-]
-
-- 📫 How to reach me = {
-    "discord": "dime#1484",
-    "matrix": "@di_me:matrix.org"    
+- 📫 How to reach me = {<br/>
+    "discord": "dime#1484",<br/>
+    "matrix": "@di_me:matrix.org"<br/>
     }
-- 😄 Pronouns = [
-    "he",
-    "him"
+- 😄 Pronouns = [<br/>
+    "he",<br/>
+    "him"<br/>
 ]

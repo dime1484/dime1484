@@ -16,7 +16,6 @@ I code in: Python 3.x, Go, Pascal, HTML/CSS/JS.
 
 - 📫 How to reach me = {<br/>
     "discord": "dime#1484",<br/>
-    "matrix": "@di_me:matrix.org"<br/>
     }
 - 😄 Pronouns = [<br/>
     "he",<br/>

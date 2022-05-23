@@ -1,9 +1,15 @@
 ### Hello!
 
 <p>
-I code in: Python 3.x </br>
-Also know: Go, Pascal, HTML+CSS+JS, Bash  </br>
+I code in: 
+>  Python 3.x </br>
+Also know: </br>
+> - Go, 
+> - Pascal, 
+> - HTML+CSS+JS, 
+> - Bash  </br>
 Currently learning:  </br>
+> C
 </p>
   
 <p>

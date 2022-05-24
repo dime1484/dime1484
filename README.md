@@ -1,11 +1,11 @@
 ### Hello!
 
-I code in: 
+**I code in:** 
 -  Python 3.x
 
 ---
 
-I also know:
+**I also know:**
 - Go, 
 - Pascal,
 - HTML+CSS+JS, 
@@ -13,11 +13,11 @@ I also know:
 
 ---
 
-I am currently learning:
+**I am currently learning:**
 - C
 
 ---
 
-How to reach me: 
+**How to reach me: **
 - discord: dime#1484
 - instagram: @dime1484

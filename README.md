@@ -18,6 +18,6 @@
 
 ---
 
-**How to reach me: **
+**How to reach me:**
 - discord: dime#1484
 - instagram: @dime1484
